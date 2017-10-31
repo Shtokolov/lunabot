@@ -3,4 +3,4 @@ LunaBot
 
 
 GitHub Pages link:
-https://github.com/Shtokolov/lunabot
+https://shtokolov.github.io/lunabot/
